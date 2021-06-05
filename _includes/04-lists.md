@@ -1,7 +1,7 @@
 .
 
-Emoji
+- Emoji
 
-Ordered Lists
+- Ordered Lists
 
-Unordered Lists
+- Unordered Lists
